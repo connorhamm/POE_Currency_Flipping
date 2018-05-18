@@ -75,10 +75,7 @@ def calculate(league, item1, item2, queue):
         profit = sell_1 - buy_1
     return (sell_1, sell_2, buy_1, buy_2)
     
-########
-# MAIN #
-########
-
+#############################################################################
 # Init Variables
 queue = 5 #queue
 item1 = 1 # Item1
